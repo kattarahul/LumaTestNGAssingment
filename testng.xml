@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Rahul Katta/eclipse-workspace/org.lumatask/src/test/java/com/ml/testpackage/TestClass.java"><classes><class name="com.ml.testpackage.TestClass"><methods><include name="luma"/></methods></class></classes></test></suite>
